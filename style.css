@@ -1,0 +1,66 @@
+.isa1{
+    display: flex;
+    
+    width: 1900px;
+    background-color:  #23232e;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+button{
+    background-color: transparent;
+    border: none;
+    
+    
+}
+
+.isa2{
+
+margin: 20px;
+
+
+}
+.foto2{
+    width: 100%;
+    height: 800px;
+    
+    
+}
+
+.buton1{
+    background-color: #c80000 ;
+    border-radius: 2px;
+    border: none;
+    
+    
+}
+.buton2{
+    background-color: #003ec8;
+    border-radius: 2px;
+    border: none;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.isa5{
+    background-color: #23232e;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+.foto1{
+    width: 200px;
+}
+.foto4{
+    width: 200px;
+    display: flex;
+    
+}
+.isa6{
+    display: flex;
+    justify-content: space-between;
+}
